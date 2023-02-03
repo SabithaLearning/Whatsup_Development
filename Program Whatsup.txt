@@ -1,1 +1,7 @@
 Source code is inside of file
+
+Profile need to be created
+
+Chat screen code
+
+Hiding Last seen 

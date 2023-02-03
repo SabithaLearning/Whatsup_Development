@@ -5,3 +5,5 @@ Profile need to be created
 Chat screen code
 
 Hiding Last seen 
+
+Adding the Video & Audio features 
